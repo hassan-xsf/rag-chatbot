@@ -1,0 +1,2 @@
+langchain_text_splitters
+langchain_chroma
